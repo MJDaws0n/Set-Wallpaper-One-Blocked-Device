@@ -1,6 +1,6 @@
 param(
     [string]$Path,
-    [string]$InitialPath = '\\sutc.internal\student\Student Personal\20dawsonm\Downloads\recent.png'
+    [string]$InitialPath = ''
 )
 
 Set-StrictMode -Version Latest
